@@ -8,4 +8,4 @@ BUENO LOS COMMANDOS SON
 en la proxima update que seria v1.1 agregare compatiblidad con mas pantalla puede que una
 16 x 2 saldria fea pero bueno
 una matrix mas bueno
-lo malo es que la memoria del arduino mega 2560 se acaba y no creo que lo soporte un uno 
+bueno el arduino mega es bueno para correr no creo que lo soporte un uno por su baja memoria
